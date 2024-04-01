@@ -6,9 +6,9 @@ Dataset
 
 The dataset includes the following attributes:
 
-1. Creditability
-2. Account Balance
-3. Duration of Credit (month)
+1. Creditability: 1 is credit worthy, 0 not credit worthy
+2. Account Balance: 1 the customer has no bank account, 2 the customer has bank account with no balance , 3 the customer has bank account with balance 
+3. Duration of Credit (month): number of monthes the customer want to take this loan for
 4. Payment Status of Previous Credit
 5. Purpose
 6. Credit Amount
